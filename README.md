@@ -13,6 +13,8 @@
   - [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)
 - Nim module
   - [Nim Language Server](https://github.com/nim-lang/langserver)
+- settings
+  - VScode debug settings using lldb
 
 ## installed versions
 
